@@ -1,0 +1,4 @@
+algorithm,sent,delivered,dropped,direct,multi_hop,pdr,delay_ms,hop_transmissions,link_breaks,recovery_attempts,successful_recoveries,failed_recoveries,recovery_success_rate
+Shortest Distance,100,46,54,2,44,46.0,40.25,242,8,8,6,2,75.0
+Congestion Aware,100,43,57,2,41,43.0,41.97,252,5,5,4,1,80.0
+Delivery Aware,100,46,54,3,43,46.0,45.01,259,13,13,12,1,92.31

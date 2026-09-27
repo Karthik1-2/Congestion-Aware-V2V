@@ -1,0 +1,16 @@
+vehicles,algorithm,connected_trials,attempted_trials,pdr,delay_ms,average_hops,transmissions
+20,Shortest Distance,14,20,28.21,79.99,7.07,4290.14
+20,Congestion Aware,14,20,22.41,93.06,8.57,4759.86
+20,Delivery Aware,14,20,30.04,76.4,6.79,4224.93
+40,Shortest Distance,20,20,18.02,99.91,7.3,3956.85
+40,Congestion Aware,20,20,12.45,120.11,8.95,4278.05
+40,Delivery Aware,20,20,21.98,90.25,6.5,3787.95
+60,Shortest Distance,20,20,17.59,101.67,7.25,3836.7
+60,Congestion Aware,20,20,10.71,128.75,9.4,4168.8
+60,Delivery Aware,20,20,22.44,88.95,6.2,3615.65
+80,Shortest Distance,20,20,15.53,107.42,7.7,3884.45
+80,Congestion Aware,20,20,10.24,131.21,9.6,4159.85
+80,Delivery Aware,20,20,21.73,90.0,6.2,3594.2
+100,Shortest Distance,20,20,15.49,109.01,7.7,3917.65
+100,Congestion Aware,20,20,8.6,140.43,10.3,4251.8
+100,Delivery Aware,20,20,23.03,88.48,6.05,3576.85

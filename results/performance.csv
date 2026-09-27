@@ -1,0 +1,11 @@
+vehicles,algorithm,connected_trials,attempted_trials,pdr,delay_ms,transmissions
+20,Shortest Distance,20,20,65.67,24.95,1918.75
+20,Congestion Aware,20,20,62.92,26.92,2121.4
+40,Shortest Distance,20,20,52.33,31.34,2204.8
+40,Congestion Aware,20,20,46.73,34.12,2476.05
+60,Shortest Distance,20,20,45.37,43.97,2528.9
+60,Congestion Aware,20,20,39.13,49.95,2814.25
+80,Shortest Distance,20,20,54.45,31.77,2083.55
+80,Congestion Aware,20,20,43.88,40.09,2585.25
+100,Shortest Distance,20,20,55.55,32.46,2078.4
+100,Congestion Aware,20,20,50.05,35.17,2338.8
